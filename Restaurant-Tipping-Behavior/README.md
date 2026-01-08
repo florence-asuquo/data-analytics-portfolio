@@ -36,6 +36,13 @@ The dataset contains real restaurant transaction records including:
 ## 💡 Key Insights
 - Dinner customers tended to tip more than lunch customers
 - Larger groups paid higher total tips but lower tip percentages
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](tipping_dashboard.png)
+
 - Tip amount increased as the total bill increased
 - Certain days showed higher tipping behavior than others
 
