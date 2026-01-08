@@ -1,18 +1,18 @@
 # Restaurant Billing & Tipping Behavior Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project explores tipping behavior in restaurants to understand how customer characteristics and dining context influence tip amounts.
 
 The goal is to help restaurant owners and managers make data-informed decisions about service strategy and customer experience.
 
 ---
 
-## ❓ Business Question
+## Business Question
 What factors influence tipping behavior in restaurants?
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset contains real restaurant transaction records including:
 - Total bill amount
 - Tip amount
@@ -24,7 +24,7 @@ The dataset contains real restaurant transaction records including:
 
 ---
 
-## 📊 What I Analyzed
+## What I Analyzed
 - Tip percentage by gender
 - Lunch vs dinner tipping behavior
 - Relationship between total bill and tip
@@ -33,20 +33,34 @@ The dataset contains real restaurant transaction records including:
 
 ---
 
-## 💡 Key Insights
-- Dinner customers tended to tip more than lunch customers
-- Larger groups paid higher total tips but lower tip percentages
+## Key Insights
+- Customers tip an average of 15%, which aligns closely with U.S. restaurant standards.
+
+- Friday receives the highest average tip percentage, suggesting end-of-week dining may create more generous tipping behavior.
+
+- Female customers tip slightly more than male customers, with a higher average tip percentage.
+This may relate to differences in order types or spending patterns.
+
+- Non-smokers tend to give significantly higher total tips compared to smokers.
+ This may be because:
+- Non-smokers dine in larger groups.
+- They purchase higher-value meals.
+- They stay longer and order more.
+
+- Tip percentage decreases as group size increases.
+ This is a classic behavioral trend, larger groups often rely on shared or split contributions, reducing individuals’ tipping proportions.
+
+- Higher bills generally lead to higher absolute tips, but not higher tip percentages.
+
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-![Dashboard](tipping_dashboard.png)
+![Dashboard](Restaurant Tipping Insights Dashboard.gif)
 
-- Tip amount increased as the total bill increased
-- Certain days showed higher tipping behavior than others
 
 ---
 
-## 🛠 Tools Used
-Power BI | Excel
+## Tools Used
+Power BI | Power query
