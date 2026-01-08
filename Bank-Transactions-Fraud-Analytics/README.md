@@ -40,5 +40,7 @@ The dataset contains simulated bank transaction records including:
 
 ---
 
+![Dashboard](Bank Transaction Dashboard.jfif)
+
 ## Tools Used
 Power BI | Power Query
