@@ -42,5 +42,8 @@ The dataset contains sales records including:
 
 ---
 
+![Dashboard](Sales Analytics Dashbaord.jfif
+)
+
 ## 🛠 Tools Used
 Power BI | Power Query
